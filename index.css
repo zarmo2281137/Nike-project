@@ -320,7 +320,9 @@ line-height: 64px;
 }
 
 .form-nike {
-    background: url(./images/background-palm.png);
+    background: url(./images/background-palm.png) ;
+    background-position: center;
+    background-size: cover;
 }
 
 .order1 {
@@ -424,3 +426,92 @@ margin-bottom: 19px;
     color: white;
     margin-bottom: 37px;
 } 
+
+.c-r-all-rights-reserved-frame {
+  background-color: rgb(2, 22, 53);
+  color: white;
+}
+
+.email-contact-frames {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.email-contact-frames1 {
+   display: flex;
+   flex-direction: column;
+   color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+ 
+    
+  
+
+    
+}
+
+.question-support-frames {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 42px;
+    padding-bottom: 19px;
+    border-bottom: 1px solid rgb(155, 155, 155);
+}
+
+.email-confirm-frame {
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+font-family: "Roboto";
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+padding-top: 21.72px;
+}
+
+.nike-swoosh-image-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nike-swoosh-footer {
+    width: 108px;
+    height: 74.85px;
+}
+
+
+.r1 {
+ 
+    
+    color: rgb(255, 255, 255);
+font-family: "PT Serif";
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+
+}
+
+.footer-text-img {
+    display: flex;
+    justify-content: right;
+}
+
+.footer-text {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.colorawe-all-rights {
+    margin-bottom: 6.5px;
+}
