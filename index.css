@@ -147,6 +147,9 @@
     line-height: 28px;
     cursor: pointer;
 }
+a, button {
+    cursor: pointer;
+}
 
 .on-this-site-container {
     padding-bottom: 41px;
